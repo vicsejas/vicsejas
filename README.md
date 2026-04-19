@@ -1,6 +1,6 @@
 # Victor Sejas
 
-**Civil engineer. Full-stack developer. I build before most people finish planning.**
+**Civil engineer. Full-stack developer. I've built structures. Now I build software.**
 
 Born in Bolivia. Currently contracting with the **RAM Structural System team at Bentley Systems**, building software that structural engineers trust to design real buildings and steel structures. Before that, I designed those structures myself.
 
