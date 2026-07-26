@@ -41,6 +41,6 @@ Most developers learn tools. I use them to solve problems I already understand �
 
 ## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/vicsejas) · [Twitter](https://twitter.com/vicsejas) · [Portfolio](https://victorsejas.com) · [Blog](https://victorsejas.com/blog)
+[LinkedIn](https://www.linkedin.com/in/vicsejas) · [Portfolio](https://victorsejas.com) · [Blog](https://victorsejas.com/blog)
 
 > *I'm not here to learn. I'm here to build, ship, and push the limits.*
